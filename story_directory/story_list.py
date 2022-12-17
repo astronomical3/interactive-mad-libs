@@ -1,0 +1,3 @@
+STORYNAMES = [
+    "Vacations",
+]
