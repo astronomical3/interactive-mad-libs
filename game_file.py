@@ -6,9 +6,9 @@ from random import choice
 choose_story_name = choice(STORYNAMES)
 user_qs = STORYQUESTIONS[choose_story_name]
 
-answerlist = []
-for question in user_qs:
-    answerlist.append(input(question))
+answerlist = [input(question) for question in user_qs]
+#for question in user_qs:
+#    answerlist.append(input(question))
 
 choose_story = storiesdict(choose_story_name, answerlist)
 
