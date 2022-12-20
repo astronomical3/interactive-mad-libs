@@ -12,4 +12,8 @@ answerlist = [input(question) for question in user_qs]
 
 choose_story = storiesdict(choose_story_name, answerlist)
 
+#Used for testing if there are any stories that cause bugs:
+print("Story name: {}".format(choose_story_name))
+
+#Actual desired output:
 print(choose_story)
