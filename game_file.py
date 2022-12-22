@@ -10,7 +10,7 @@ answerlist = [input(question) for question in user_qs]
 #for question in user_qs:
 #    answerlist.append(input(question))
 
-choose_story = storiesdict(choose_story_name, answerlist)
+choose_story = story_choice(choose_story_name, answerlist)
 
 #Used for testing if there are any stories that cause bugs:
 print("Story name: {}".format(choose_story_name))
