@@ -13,4 +13,5 @@ STORYNAMES = [
     "Mountain Hike",
     "Summer Camp",
     "Silly Summer Goals",
+    "Baltimore Trip",
 ]
