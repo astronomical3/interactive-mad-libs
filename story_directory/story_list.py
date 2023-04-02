@@ -17,5 +17,6 @@ STORYNAMES = [
     "Baby Advice",
     "Bike Riding",
     "Pretty Princess",
-    "If you give a..."
+    "If you give a...",
+    "Deck the Halls",
 ]

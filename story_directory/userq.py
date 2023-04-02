@@ -18,4 +18,5 @@ STORYQUESTIONS = {
     "Bike Riding": ["Verb ending in ing 1: ", "Adjective 1: ", "Verb ending in ing 2: ", "Body Part 1: ", "Adverb: ", "Body Part 2: ", "Plural Noun: ", "Verb 1: ", "Plural Animals: ", "Noun: ", "Verb 2: ", "Adjective 2: ", "Color: "],
     "Pretty Princess": ["Adjective 1: ", "Color: ", "Random number: ", "Relative: ", "Type of place 1: ", "Type of place 2: ", "Verb ending in ing: ", "Plural Noun: ", "Adjective 2: ", "Adjective 3: ", "Type of person: ", "Adverb: "],
     "If you give a...": ["Animal: ", "Food 1: ", "Noun 1: ", "Verb 1: ", "Verb 2: ", "Verb 3: ", "Verb 4: ", "Noun 2: ", "Type of location 1: ", "Noun 3: ", "Noun 4: ", "Type of location 2: ", "Verb 5: ", "Food 2: ", "Game: ", "Verb 6: ", "Noun 5: ", "Noun 6: ", "Plural Noun 1: ", "Verb ending in ing: ", "Verb 7: ", "Plural Noun 2: ", "Verb 8: "],
+    "Deck the Halls": ["Object in Home: ", "Adjective 1: ", "Adjective 2: ", "Adjective 3: ", "Verb ending in ing: ", "Noun: ", "Adjective 4: ", "Adjective 5: "],
 }
