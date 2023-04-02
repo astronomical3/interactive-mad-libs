@@ -231,3 +231,4 @@ tmtags
 documentation/
 .DS_Store
 .nova/
+package.json
