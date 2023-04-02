@@ -20,4 +20,5 @@ STORYNAMES = [
     "If you give a...",
     "Deck the Halls",
     "Holiday",
+    "Pizza Pizza",
 ]

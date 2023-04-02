@@ -20,4 +20,5 @@ STORYQUESTIONS = {
     "If you give a...": ["Animal: ", "Food 1: ", "Noun 1: ", "Verb 1: ", "Verb 2: ", "Verb 3: ", "Verb 4: ", "Noun 2: ", "Type of location 1: ", "Noun 3: ", "Noun 4: ", "Type of location 2: ", "Verb 5: ", "Food 2: ", "Game: ", "Verb 6: ", "Noun 5: ", "Noun 6: ", "Plural Noun 1: ", "Verb ending in ing: ", "Verb 7: ", "Plural Noun 2: ", "Verb 8: "],
     "Deck the Halls": ["Object in Home: ", "Adjective 1: ", "Adjective 2: ", "Adjective 3: ", "Verb ending in ing: ", "Noun: ", "Adjective 4: ", "Adjective 5: "],
     "Holiday": ["Holiday: ", "Day or Date: ", "Plural Noun 1: ", "Verb ending in ing 1: ", "Verb ending in ing 2: ", "Plural Noun 2: ", "Food: ", "Adjective 1: ", "Plural Noun 3: ", "Verb 1: ", "Noun 1: ", "Noun 2: ", "Verb 2: ", "Random Name: ", "Noun 3: ", "Plural Noun 4: ", "Adjective 2: "],
+    "Pizza Pizza": ["Adjective 1: ", "Nationality: ", "Random Name: ", "Noun 1: ", "Adjective 2: ", "Noun 2: ", "Adjective 3: ", "Adjective 4: ", "Plural Noun: ", "Noun 3: ", "Random number 1: ", "Plural Shape: ", "Food 1: ", "Food 2: ", "Random number 2: "],
 }
