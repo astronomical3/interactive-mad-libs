@@ -16,4 +16,5 @@ STORYQUESTIONS = {
     "Baltimore Trip": ["Type of vehicle 1: ", "Adjective 1: ", "Place: ", "Adjective 2: ", "Verb ending in ed: ", "Animal 1: ", "Animal 2: ", "Adjective 3: ", "Type of vehicle 2: ", "Country: ", "Food: ", "Adjective 4: ", "Censored expletive: ", "Plural Noun: ", "Body Part: ", "Weapon: ", "Adjective 5: "],
     "Baby Advice": ["Random Name 1: ", "Random Name 2: ", "Number of years: ", "Verb 1: ", "Noun 1: ", "Adjective 1: ", "Verb 2: ", "Verb 3: ", "Verb 4: ", "Noun 2: ", "Verb 5: ", "Noun 3: ", "Verb 6: ", "Noun 4: ", "Adjective 2: "],
     "Bike Riding": ["Verb ending in ing 1: ", "Adjective 1: ", "Verb ending in ing 2: ", "Body Part 1: ", "Adverb: ", "Body Part 2: ", "Plural Noun: ", "Verb 1: ", "Plural Animals: ", "Noun: ", "Verb 2: ", "Adjective 2: ", "Color: "],
+    "Pretty Princess": ["Adjective 1: ", "Color: ", "Random number: ", "Relative: ", "Type of place 1: ", "Type of place 2: ", "Verb ending in ing: ", "Plural Noun: ", "Adjective 2: ", "Adjective 3: ", "Type of person: ", "Adverb: "],
 }

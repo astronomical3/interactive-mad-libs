@@ -16,4 +16,5 @@ STORYNAMES = [
     "Baltimore Trip",
     "Baby Advice",
     "Bike Riding",
+    "Pretty Princess",
 ]
