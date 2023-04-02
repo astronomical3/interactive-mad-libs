@@ -20,6 +20,6 @@ This is a project where we give users a random story to fill in.  They don't kno
 
 * Create an [issue](https://github.com/astronomical3/interactive-mad-libs/issues) to report a bug, a feature request, or a story.
 * Join the repo and directly contribute by either contacting my email (astrobrunner@gmail.com) or by asking to [Join our group](https://github.com/astronomical3/interactive-mad-libs/discussions/categories/join-our-group) via Discussions.
-  * Read the [Code of Conduct]() and [Contribution Guidelines](CONTRIBUTING.md)
+  * Read the [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md)
 * Or, if you have any ideas about the future of this project, you can let me know via the [Ideas](https://github.com/astronomical3/interactive-mad-libs/discussions/categories/ideas) Discussion board.
 * Fork and clone this repo and create a pull request

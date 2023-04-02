@@ -4,7 +4,7 @@ The Interactive Mad Libs repository is an open-source project that allows users 
 
 # Basic Contributing Rules
 
-1. Read the [Code of Conduct]()
+1. Read the [Code of Conduct](CODE_OF_CONDUCT.md)
 2. In addition to what is already known to be inappropriate behavior, as per the Code of Conduct, it is also imperative that you refrain from anti-neurodivergent sentiment. That is any sentiment or action that is done to deprive neurodivergent people (Autistic, ADHDer, Dyslexic, Dyscalculic, Dyspraxic, Dysgraphic, Tourette's, etc.) of their human freedoms and their dignity.
 3. Examples of anti-neurodivergent sentiment:
    a. Using the "r-word" (of course, it's ableist in general).
