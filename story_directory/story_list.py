@@ -19,4 +19,5 @@ STORYNAMES = [
     "Pretty Princess",
     "If you give a...",
     "Deck the Halls",
+    "Holiday",
 ]
