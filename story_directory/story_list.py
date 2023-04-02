@@ -15,4 +15,5 @@ STORYNAMES = [
     "Silly Summer Goals",
     "Baltimore Trip",
     "Baby Advice",
+    "Bike Riding",
 ]

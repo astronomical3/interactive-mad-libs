@@ -31,6 +31,8 @@ def story_choice(storyname, answerlist):
         return "My family drove our {} to Baltimore last weekend to check out some of the sights and try some of those {} crabs we've heard so much about.  We started by going to the Inner {} and looking at the World Trade Center.  What a {} building!  Then, we {} to the National Aquarium and saw lots of {}.  The underwater {} show was {}!\nAfter all that sightseeing, we were hungry.  So, we took a {} to a restaurant in Little {} and ate lots and lots of {}.  We were stuffed after that, and decided to head back to the hotel.  It was a {} day out, so we walked back.  But {}!  Four {} tried to mug us!  My father tried to fight back, but he got hit in the {} with a {} and they took all our money.  Now we're {}!  I'm so tired from my trip to Baltimore, it was fun, but it's time to go home now!".format(*answerlist)
     elif storyname == "Baby Advice":
         return "My name is {} and I have known {} for {} years.  I {} all the way from {} to celebrate today.  I am so {} for the new parents!  My best advice?  Don't forget to {} before {} and {} after the {}.  Daddy, you should always {} Mommy's {} and Mommy, you should always {} Daddy's {}.  You are going to be the best parents ever!\n\nLove, {}".format(*answerlist)
+    elif storyname == "Bike Riding":
+        return "Most doctors agree that bicycle {} is a(n) {} form of exercise.  {} a bicycle enables you to develop your {} muscles as well as {} increase the rate of your {} beat.  More {} around the world {} bicycles than drive {}.  No matter what kind of {} you {}, always be sure to wear a(n) {} helmet.  Make sure to have {} reflectors, too!".format(*answerlist)
     
 
 #More stories will be added in this function over time!
