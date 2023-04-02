@@ -11,4 +11,5 @@ STORYQUESTIONS = {
     "All About Me": ["Your first name: ", "Thing: ", "Person's first name: ", "Verb ending in ing 1: ", "Color: ", "Thing: ", "City or state: ", "Verb ending in ing 2: ", "Verb ending in ing 3: ", "Verb ending in ing 4: ", "Noun: ", "Food: "],
     "Bakery": ["Adjective: ", "Noun: ", "Plural Noun 1 (something round): ", "Plural Noun 2: ", "Flavor 1: ", "Number: ", "Plural Food: ", "Flavor 2: ", "Number: ", "Plural Noun 3: ", "Number: ", "Color: "],
     "Mountain Hike": ["Plural Noun: ", "Adjective 1: ", "Food 1: ", "Food 2: ", "Part of the body: ", "Noun 1: ", "Verb ending in ing: ", "Verb 1: ", "Color 1: ", "Color 2: ", "Adjective 2: ", "Noun 2: ", "Adjective 3: ", "Animal 1: ", "Adjective 4: ", "Animal 2: ", "Verb 2: ", "Adjective 5: ", "Verb 3: ", "Noun 3: "],
+    "Summer Camp": ["Adjective 1: ", "Noun 1: ", "Adjective 2: ", "Verb 1: ", "Verb 2: ", "Verb 3: ", "Plural Noun: ", "Verb 4: ", "Verb ending in ing 1: ", "Noun 2: ", "Verb 5: ", "Adjective 3: ", "Verb ending in ing 2: ", "Adjective 4: ", "Place: ", "Plural Animal 1: ", "Plural Animal 2: ", "Verb ending in ing 3: ", "Plural Food: "],
 }
